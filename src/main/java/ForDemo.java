@@ -7,6 +7,8 @@ public class ForDemo {
         for(count = 0; count < 10; count = count+1)
             System.out.println("значение счетчика " + count);
 
+        System.out.println("Готово");
+
         //  for(count = 0, count < 10, count = count ++)
         //            System.out.println("значение счетчика " + count);
 
